@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pasta&#39;s blog</title>
+    <link>https://doomed-neko.github.io/</link>
+    <description>Recent content on pasta&#39;s blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Dec 2024 11:55:18 +0300</lastBuildDate>
+    <atom:link href="https://doomed-neko.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>https://doomed-neko.github.io/first/</link>
+      <pubDate>Thu, 05 Dec 2024 11:55:18 +0300</pubDate>
+      <guid>https://doomed-neko.github.io/first/</guid>
+      <description>&lt;p&gt;This is my first blog ever&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
