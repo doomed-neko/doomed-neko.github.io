@@ -10,6 +10,7 @@ const site = lume(
   {
     server:{
       port: 8000
+      debugBar: false,
     }
   }
 );
