@@ -1,0 +1,16 @@
+lang: en
+
+home:
+  welcome: Hello, I am a person that writes programs.
+
+menu_links: []
+extra_head: []
+
+# Metas plugin https://lume.land/plugins/metas/#description
+metas:
+  site: Adenosine
+  description: An autist's blog showcasing hist work
+  title: "=title"
+  image: "=image"
+  lang: en
+
