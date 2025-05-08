@@ -9,7 +9,7 @@ import "npm:prismjs@1.29.0/components/prism-nasm.js";
 const site = lume(
   {
     server:{
-      port: 8000
+      port: 8000,
       debugBar: false,
     }
   }
