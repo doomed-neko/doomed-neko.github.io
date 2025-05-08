@@ -1,12 +1,10 @@
 ---
-title: Writing a web server in assembly
+title: Writing a hello world program in assembly
 date: 2025-05-05
 author: Adenosine
 ---
-In this post, I will be going through how you would write a simple http server in
-[FASM](https://flatassembler.net/) using only Linux syscalls.
-I will try to explain assembly as much as I can but I still expect you to know
-just a little bit about instructions.
+In this post, I will be going through how you would write a simple hello
+world program in [FASM](https://flatassembler.net/) for Linux.
 
 Note: This post (and the entire blog) is licensed under [GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.en.html)
 and is hosted on [GitHub](https://github.com/doomed-neko/website)
@@ -24,8 +22,8 @@ Next you will need to create a directory for this project containing our `main.s
 file, you can use `mkdir` and `touch` for that.
 
 ```bash
-mkdir asm_http
-cd asm_http
+mkdir asm_hello
+cd asm_hello
 touch main.s
 ```
 
@@ -179,7 +177,7 @@ chmod +x ./main
 
 Et voila! Now run your binary and see as it prints the message:
 
-![Image file showing the binary printing hello world and SEGFAULT'ing](/img/asm-http-1.png)
+![Image file showing the binary printing hello world and SEGFAULT'ing](/img/asm-hello-1.png)
 
 It works, but segfaults for some reason. That's because we never told
 the OS what to do after printing, usually languages do this for you automatically
@@ -203,9 +201,7 @@ takes one argument, which is the [exit status](https://en.wikipedia.org/wiki/Exi
 ```
 
 Now if we recompile, our program exits without any errors:
-![Hello world program exiting successfully](/img/asm-http-2.png)
+![Hello world program exiting successfully](/img/asm-hello-2.png)
 
-Alright! Now we have wrote our first assembly program. It's time we start with
-the http server.
-
-## TODO: HTTP server
+Alright! Now we have wrote our first assembly program. Next we'll be writing a
+web server so stay tuned!
