@@ -3,14 +3,17 @@ import blog from "blog/mod.ts";
 
 import "npm:prismjs@1.29.0/components/prism-rust.js";
 import "npm:prismjs@1.29.0/components/prism-python.js";
+import "npm:prismjs@1.29.0/components/prism-bash.js";
+import "npm:prismjs@1.29.0/components/prism-nasm.js";
 
 const site = lume(
   {
     server:{
-      port: 80
+      port: 8000
     }
   }
 );
+site.add("/img");
 
 
 site.use(blog());
