@@ -1,7 +1,7 @@
 lang: en
 
 home:
-  welcome: Hello, I am a person that writes programs.
+  welcome: Hello, I am an autist who writes programs.
 
 menu_links: []
 extra_head: []
@@ -9,8 +9,7 @@ extra_head: []
 # Metas plugin https://lume.land/plugins/metas/#description
 metas:
   site: Adenosine
-  description: An autist's blog showcasing hist work
+  description: An autist's blog showcasing his work
   title: "=title"
   image: "=image"
   lang: en
-
