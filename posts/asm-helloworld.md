@@ -203,5 +203,4 @@ takes one argument, which is the [exit status](https://en.wikipedia.org/wiki/Exi
 Now if we recompile, our program exits without any errors:
 ![Hello world program exiting successfully](/img/asm-hello-2.png)
 
-Alright! Now we have wrote our first assembly program. Next we'll be writing a
-web server so stay tuned!
+Alright! Now we have wrote our first assembly program.
