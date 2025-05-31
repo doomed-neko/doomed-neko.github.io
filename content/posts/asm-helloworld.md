@@ -1,10 +1,8 @@
 +++
 title = "Assembly Hello World"
-date = "2025-05-31T15:28:41+03:00"
-#dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
+date = "2025-05-31"
 author = "Adenosine"
-#authorTwitter = "" #do not include @
-cover = ""
+cover = "img/asm-hello-2.png"
 tags = ["asm", "tutorial"]
 keywords = ["assembly", "hello world"]
 description = "A quick tutorial to learn how to write a *very* simple assembly program"
