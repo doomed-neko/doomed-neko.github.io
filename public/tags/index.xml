@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Adenosine</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Adenosine</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 31 May 2025 15:28:41 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Asm</title>
+      <link>http://localhost:1313/tags/asm/</link>
+      <pubDate>Sat, 31 May 2025 15:28:41 +0300</pubDate>
+      <guid>http://localhost:1313/tags/asm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tutorial</title>
+      <link>http://localhost:1313/tags/tutorial/</link>
+      <pubDate>Sat, 31 May 2025 15:28:41 +0300</pubDate>
+      <guid>http://localhost:1313/tags/tutorial/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial on Adenosine</title>
+    <link>http://localhost:1313/tags/tutorial/</link>
+    <description>Recent content in Tutorial on Adenosine</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 31 May 2025 15:28:41 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assembly Hello World</title>
+      <link>http://localhost:1313/posts/asm-helloworld/</link>
+      <pubDate>Sat, 31 May 2025 15:28:41 +0300</pubDate>
+      <guid>http://localhost:1313/posts/asm-helloworld/</guid>
+      <description>&lt;p&gt;In this post, I will be going through how you would write a simple hello&#xA;world program in &lt;a href=&#34;https://flatassembler.net/&#34;&gt;FASM&lt;/a&gt; for Linux.&lt;/p&gt;&#xA;&lt;p&gt;Note: This post (and the entire blog) is licensed under &lt;a href=&#34;https://www.gnu.org/licenses/gpl-3.0.en.html&#34;&gt;GPLv3 License&lt;/a&gt;&#xA;and is hosted on &lt;a href=&#34;https://github.com/doomed-neko/website&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;set-up&#34;&gt;Set up&lt;/h2&gt;&#xA;&lt;p&gt;First of all, download and install &lt;a href=&#34;https://flatassembler.net/&#34;&gt;Flat Assembler&lt;/a&gt;.&#xA;On arch, you can install it using pacman as follows:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo pacman -S fasm&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Next you will need to create a directory for this project containing our &lt;code&gt;main.s&lt;/code&gt;&#xA;file, you can use &lt;code&gt;mkdir&lt;/code&gt; and &lt;code&gt;touch&lt;/code&gt; for that.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
