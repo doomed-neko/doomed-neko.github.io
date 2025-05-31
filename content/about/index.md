@@ -11,11 +11,3 @@ readingTime = false
 hideComments = false
 +++
 
-# This is a test
-
-```rust
-fn main(){
-  let a = "hi";
-  println!("{a}");
-}
-```
