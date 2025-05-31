@@ -17,7 +17,7 @@ In this post, I will be going through how you would write a simple hello
 world program in [FASM](https://flatassembler.net/) for Linux.
 
 Note: This post (and the entire blog) is licensed under [GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.en.html)
-and is hosted on [GitHub](https://github.com/doomed-neko/website)
+and is hosted on [GitHub](https://github.com/doomed-neko/doomed-neko.github.io)
 
 ## Set up
 
