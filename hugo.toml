@@ -104,3 +104,7 @@ url = "/about"
 identifier = "posts"
 name = "Posts"
 url = "/posts"
+
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
