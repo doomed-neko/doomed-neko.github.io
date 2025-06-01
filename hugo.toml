@@ -15,7 +15,7 @@ talkyardScriptUrl = "https://c1.ty-cdn.net/-/talkyard-comments.min.js"
 
 # dir name of your main content (default is `content/posts`).
 # the list of set content will show up on your index page (baseurl).
-contentTypeName = "posts"
+#contentTypeName = "posts"
 
 # if you set this to 0, only submenu trigger will be visible
 showMenuItems = 2
@@ -99,9 +99,9 @@ logoHomeLink = "/"
 
 [languages.en.menu]
 [[languages.en.menu.main]]
-identifier = "about"
-name = "About"
-url = "/about"
+identifier = "home"
+name = "Home"
+url = "/"
 
 [[languages.en.menu.main]]
 identifier = "posts"
