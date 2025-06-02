@@ -11,6 +11,8 @@ showFullContent = false
 readingTime = false
 hideComments = false
 +++
+![:adenosine.vwh.sh](https://count.getloli.com/@:adenosine.vwh.sh?name=%3Aadenosine.vwh.sh&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
 Hey there, I'm Adenosine or at least that's what I'm mostly called.
 
 ### Interests
