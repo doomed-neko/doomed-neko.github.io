@@ -34,6 +34,7 @@ Hey there, I'm Adenosine or at least that's what I'm mostly called.
 
 ### Social media accounts
 
-1. [Telegram](https://t.me/di_phosphate)
+1. [Telegram](https://t.me/desperado_pasta)
+   (DM's are enabled in the channel for contact)
 2. [GitHub](https://github.com/doomed-neko)
 3. [My email](mailto:adenosine_di_phosphate@proton.me)
