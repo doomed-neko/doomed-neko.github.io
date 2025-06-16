@@ -31,6 +31,7 @@ Hey there, I'm Adenosine or at least that's what I'm mostly called.
 1. [Mini OS](https://github.com/doomed-neko/mini-rust-os):
    A small operating system written in rust.
 2. [VL](https://github.com/doomed-neko/vl): A brainfuck interpreter
+3. [TMPC](https://github.com/doomed-neko/tmpc): A Music Player Client as a Telegram bot.
 
 ### Social media accounts
 
