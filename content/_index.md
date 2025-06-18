@@ -1,23 +1,15 @@
 +++
-title = "about me"
-date = "2025-05-31T15:50:29+03:00"
 author = "Adenosine"
-cover = ""
-tags = []
 Toc = false
-keywords = []
-description = ""
-showFullContent = false
-readingTime = false
 hideComments = false
 framed= true
 +++
 
-![:adenosine.vwh.sh](https://count.getloli.com/@:adenosine.vwh.sh?name=%3Aadenosine.vwh.sh&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+# ![:adenosine.vwh.sh](https://count.getloli.com/@:adenosine.vwh.sh?name=%3Aadenosine.vwh.sh&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 Hey there, I'm Adenosine or at least that's what I'm mostly called.
 
-### Interests
+## Interests
 
 1. Programming of course! I code mainly in rust and python.
 2. Cybersecurity: especially when it's about low level stuff,
@@ -27,7 +19,7 @@ Hey there, I'm Adenosine or at least that's what I'm mostly called.
 4. Astronomy, and physics in general.
 5. Gaming: but not that much, Only how far my laptop can go.
 
-### My little projects
+## My little projects
 
 1. [Mini OS](https://github.com/doomed-neko/mini-rust-os):
    A small operating system written in rust.
@@ -35,7 +27,7 @@ Hey there, I'm Adenosine or at least that's what I'm mostly called.
 3. [TMPC](https://github.com/doomed-neko/tmpc): A Music Player Client as a
    Telegram bot.
 
-### Social media accounts
+## Social media accounts
 
 1. [Telegram](https://t.me/desperado_pasta)
    (DM's are enabled in the channel for contact)
