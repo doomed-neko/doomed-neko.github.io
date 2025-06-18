@@ -103,11 +103,11 @@ identifier = "home"
 name = "Home"
 url = "/"
 
-[[languages.en.menu.main]]
-identifier = "about"
-name = "About"
-url = "/about"
-
+# [[languages.en.menu.main]]
+# identifier = "about"
+# name = "About"
+# url = "/about"
+#
 [caches]
 [caches.images]
 dir = ':cacheDir/images'
