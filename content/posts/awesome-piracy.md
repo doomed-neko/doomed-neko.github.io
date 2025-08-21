@@ -1,6 +1,6 @@
 +++
 title = "Awesome Piracy"
-date = "2025-05-31T22:53:47+03:00"
+date = "2025-07-05"
 author = "Adenosine"
 cover = ""
 tags = ["piracy"]
